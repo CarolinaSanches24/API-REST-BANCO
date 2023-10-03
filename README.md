@@ -53,7 +53,7 @@ Para inicializar o projeto no terminal com as dependências necessárias digite:
 
 # Imagem da rota Extrato
 <img src="./src/img/api.png">
- # 🤝 Contribuições
+<h1> 🤝 Contribuições</h1>
  Siga os passos abaixo para contribuir:
 
 1. Faça o fork do projeto (https://github.com/CarolinaSanches24/API-REST-BANCO)
