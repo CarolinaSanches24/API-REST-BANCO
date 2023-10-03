@@ -26,10 +26,10 @@ Para realização de operações bancárias . Seguindo os conjuntos de restriç�
   Digite o comando <strong>git clone + a chave ssh do Projeto.</strong>
 <h1>🚀 Inicialização</h1>
 Para inicializar o projeto no terminal com as dependências necessárias digite:
-<ul>
+
 <li> npm install nodemon</li>
 <li>npm install express</li>
-</ul>
+
 <h1>Execução do Projeto </h1>
 
   O projeto pode ser executado utilizando o <strong style ="color:purple">Insomia</strong>
