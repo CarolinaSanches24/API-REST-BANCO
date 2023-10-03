@@ -27,10 +27,10 @@ Para realização de operações bancárias . Seguindo os conjuntos de restriç�
 <h1>🚀 Inicialização</h1>
 Para inicializar o projeto no terminal com as dependências necessárias digite:
 <ul>
-- npm install nodemon
-- npm install express
+<li> npm install nodemon</li>
+<li>npm install express</li>
 </ul>
-# Execução do Projeto 
+<h1>Execução do Projeto </h1>
 
   O projeto pode ser executado utilizando o <strong style ="color:purple">Insomia</strong>
   <br> Através das Rotas Abaixo:
