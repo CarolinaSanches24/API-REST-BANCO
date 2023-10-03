@@ -24,11 +24,12 @@ Para realização de operações bancárias . Seguindo os conjuntos de restriç�
 - Primeiro faça o Fork do Projeto.
 - Depois clone o repositório para seu ambiente:<br>
   Digite o comando <strong>git clone + a chave ssh do Projeto.</strong>
-<h1>🚀 Inicialização </h1>
+<h1>🚀 Inicialização</h1>
 Para inicializar o projeto no terminal com as dependências necessárias digite:
+<ul>
 - npm install nodemon
 - npm install express
-
+</ul>
 # Execução do Projeto 
 
   O projeto pode ser executado utilizando o <strong style ="color:purple">Insomia</strong>
