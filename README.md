@@ -21,8 +21,8 @@ Para realização de operações bancárias . Seguindo os conjuntos de restriç�
 <img src = "https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"  width="80px" height="80px">
 </div>
 <h1>Implementação do Projeto</h1>
-- Primeiro faça o Fork do Projeto.
-- Depois clone o repositório para seu ambiente:<br>
+<li>Primeiro faça o Fork do Projeto.</li> 
+<li> Depois clone o repositório para seu ambiente:</li><br>
   Digite o comando <strong>git clone + a chave ssh do Projeto.</strong>
 <h1>🚀 Inicialização</h1>
 Para inicializar o projeto no terminal com as dependências necessárias digite:
