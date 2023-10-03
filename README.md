@@ -36,21 +36,21 @@ Para inicializar o projeto no terminal com as dependências necessárias digite:
   <br> Através das Rotas Abaixo:
   - Criar Conta 
   <img src = "./src/img/rotaCriarConta.png">
-  - Atualizar Conta
+  <li> Atualizar Conta</li>
   <img src="./src/img/rotaAtualizarConta.png">
-  - Listar Contas
+ <li>Listar Contas</li>
   <img src="./src/img/rotaListarContas.png">
-  - Deletar Conta
+ <li> Deletar Conta</li>
   <img src= "./src/img/rotaDeletarConta.png">
-  - Consultar Saldo
+ <li> Consultar Saldo</li>
   <img src="./src/img/rotaconsultarsaldo.png">
-  - Depositar
+  <li>Depositar</li>
     <img src="./src/img/rotaDepositar.png">
-  - Sacar
+ <li>Sacar</li>
     <img src="./src/img/rotaSacar.png">
-  - Transferir
+ <li>Transferir</li>
     <img src="./src/img/rotaTransferir.png">
-  - Consultar Extrato
+ <li>Consultar Extrato</li>
     <img src = "./src/img/rotaExtrato.png">
 
 # Imagem da rota Extrato
