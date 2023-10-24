@@ -29,6 +29,7 @@ Para inicializar o projeto no terminal com as dependências necessárias digite:
 
 <li> npm install nodemon</li>
 <li>npm install express</li>
+<li>npm install dotenv</li>
 
 <h1>Execução do Projeto </h1>
 
