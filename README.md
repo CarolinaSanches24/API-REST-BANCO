@@ -14,46 +14,48 @@ Para realização de operações bancárias . Seguindo os conjuntos de restriç�
 ✅ Sacar<br>
 ✅ Consultar Extrato da Conta <br>
 <h1>:hammer_and_pick: Tecnologias Utilizadas</h1>
+<div style="display:inline">
 <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png " width="80px" height="80px">
 <img src = "https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="80px" height="80px">
 <img src = "https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png"  width="80px" height="80px">
 <img src = "https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"  width="80px" height="80px">
-
-# Implementação do Projeto
-- Primeiro faça o Fork do Projeto.
-- Depois clone o repositório para seu ambiente:<br>
+</div>
+<h1>Implementação do Projeto</h1>
+<li>Primeiro faça o Fork do Projeto.</li> 
+<li> Depois clone o repositório para seu ambiente:</li><br>
   Digite o comando <strong>git clone + a chave ssh do Projeto.</strong>
-# 🚀 Inicialização 
+<h1>🚀 Inicialização</h1>
 Para inicializar o projeto no terminal com as dependências necessárias digite:
-- npm install nodemon
-- npm install express
 
-# Execução do Projeto 
+<li> npm install nodemon</li>
+<li>npm install express</li>
+
+<h1>Execução do Projeto </h1>
 
   O projeto pode ser executado utilizando o <strong style ="color:purple">Insomia</strong>
   <br> Através das Rotas Abaixo:
   - Criar Conta 
   <img src = "./src/img/rotaCriarConta.png">
-  - Atualizar Conta
+  <li> Atualizar Conta</li>
   <img src="./src/img/rotaAtualizarConta.png">
-  - Listar Contas
+ <li>Listar Contas</li>
   <img src="./src/img/rotaListarContas.png">
-  - Deletar Conta
+ <li> Deletar Conta</li>
   <img src= "./src/img/rotaDeletarConta.png">
-  - Consultar Saldo
+ <li> Consultar Saldo</li>
   <img src="./src/img/rotaconsultarsaldo.png">
-  - Depositar
+  <li>Depositar</li>
     <img src="./src/img/rotaDepositar.png">
-  - Sacar
+ <li>Sacar</li>
     <img src="./src/img/rotaSacar.png">
-  - Transferir
+ <li>Transferir</li>
     <img src="./src/img/rotaTransferir.png">
-  - Consultar Extrato
+ <li>Consultar Extrato</li>
     <img src = "./src/img/rotaExtrato.png">
 
 # Imagem da rota Extrato
 <img src="./src/img/api.png">
- # 🤝 Contribuições
+<h1> 🤝 Contribuições</h1>
  Siga os passos abaixo para contribuir:
 
 1. Faça o fork do projeto (https://github.com/CarolinaSanches24/API-REST-BANCO)
